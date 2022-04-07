@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*_disp.jpg
+*_disp.npy
+*.npz
+kitti_data
+.idea
+#*.pth
+tmp/
+data/
+*.ipynb
+.ipynb_checkpoints
+predictions/
